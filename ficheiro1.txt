@@ -1,0 +1,3 @@
+Este é um novo ficheiro criado no meu projeto.
+
+Vou-lhe chamar ficheiro 1.
